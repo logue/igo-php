@@ -11,7 +11,7 @@ class Tagger
      */
     public $options = [
         // 辞書ディレクトリ
-        'dict_dir'          => __DIR__.'../../../ipadic',
+        'dict_dir'          => __DIR__.'/../../../ipadic',
         // 配列として出力
         'return_as_array'   => false,
         // 実行時の使用メモリを調整
